@@ -9,19 +9,19 @@ Kuantum mekaniğinin temel araçlarından başlayarak, mükemmel güvenlik teori
 
 ## 🚀 Proje Yapısı
 
-Ders notları, haftalık ilerlemeyi takip etmeyi kolaylaştıracak şekilde `week00` ile `week10` arasında bölümlere ayrılmıştır:
+Ders notları, haftalık ilerlemeyi takip etmeyi kolaylaştıracak şekilde `Bölüm00` ile `Bölüm10` arasında bölümlere ayrılmıştır:
 
-*   **week00_background-introduction:** Arka Plan ve Temel Giriş
-*   **week01_quantum-tools-and-protocols:** Kuantum Araçları ve İlk Protokoller
-*   **week02_power-of-entanglement:** Dolanıklığın Gücü (Quantum Entanglement)
-*   **week03_quantifying-information:** Bilgiyi Nicelendirmek (Kuantum Bilgi Teorisi)
-*   **week04_imperfect-to-perfect-security:** Kusurlu Bilgiden (Neredeyse) Mükemmel Güvenliğe
-*   **week05_distributing-keys:** Anahtar Dağıtımı Esasları
-*   **week06_qkd-protocols:** Kuantum Anahtar Dağıtımı (QKD) Protokolleri
-*   **week07_untrusted-devices:** Güvenilmeyen Cihazlarla Kuantum Kriptografisi
-*   **week08_beyond-key-distribution:** Anahtar Dağıtımının Ötesinde Kuantum Kriptografisi
-*   **week09_physical-assumptions:** Fiziksel Varsayımlardan Mükemmel Güvenlik Elde Etme
-*   **week10_further-topics:** İleri Düzey Konular ve Kapanış
+*   **Bölüm00_background-introduction:** Arka Plan ve Temel Giriş
+*   **Bölüm01_quantum-tools-and-protocols:** Kuantum Araçları ve İlk Protokoller
+*   **Bölüm02_power-of-entanglement:** Dolanıklığın Gücü (Quantum Entanglement)
+*   **Bölüm03_quantifying-information:** Bilgiyi Nicelendirmek (Kuantum Bilgi Teorisi)
+*   **Bölüm04_imperfect-to-perfect-security:** Kusurlu Bilgiden (Neredeyse) Mükemmel Güvenliğe
+*   **Bölüm05_distributing-keys:** Anahtar Dağıtımı Esasları
+*   **Bölüm06_qkd-protocols:** Kuantum Anahtar Dağıtımı (QKD) Protokolleri
+*   **Bölüm07_untrusted-devices:** Güvenilmeyen Cihazlarla Kuantum Kriptografisi
+*   **Bölüm08_beyond-key-distribution:** Anahtar Dağıtımının Ötesinde Kuantum Kriptografisi
+*   **Bölüm09_physical-assumptions:** Fiziksel Varsayımlardan Mükemmel Güvenlik Elde Etme
+*   **Bölüm10_further-topics:** İleri Düzey Konular ve Kapanış
 
 ## 🛠️ Kullanılan Teknolojiler
 
